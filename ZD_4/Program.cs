@@ -11,4 +11,3 @@ if (a > Max ) Max=a;
 if (b > Max ) Max=b;
 if (c > Max) Max=c;
 Console.Write($"Максимальное из трех чисел: {Max}");
-
